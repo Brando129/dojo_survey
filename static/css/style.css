@@ -1,0 +1,9 @@
+/* CSS Reset */
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1{
+    color: yellow;
+}
